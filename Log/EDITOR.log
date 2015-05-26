@@ -1,97 +1,97 @@
-[SpriteText] Close
-[SpriteText] Lost
+﻿[SpriteText] Schließen
+[SpriteText] verloren
 [SpriteText] Assigned
-[SpriteText] Available
-[SpriteText] Applicants
-[SpriteText] Fill
+[SpriteText] Verfügbar
+[SpriteText] Auftraggeber
+[SpriteText] Füllen
+[SpriteText] Zurücksetzen
+[SpriteText] säubern
+[SpriteText] Zum Astronautenkomplex
+[SpriteText] säubern
+[SpriteText] Füllen
 [SpriteText] Reset
-[SpriteText] Clear
-[SpriteText] Go to Astronaut Complex
-[SpriteText] Clear
-[SpriteText] Fill
-[SpriteText] Reset
-[SpriteText] Available crew
-[SpriteText] Parts with crew capacity
+[SpriteText] Verfügbare Crew
+[SpriteText] Teile mit Crew Plätzen
 [SpriteText] 0
-[SpriteText] none
-[SpriteText] Stage Only
+[SpriteText] keines
+[SpriteText] Stage einzeln
 [SpriteText] 
 [SpriteText] /
 [SpriteText] 0
 [SpriteText] 0
 [SpriteText] 0
-[SpriteText] Resources
-[SpriteText] Resources
+[SpriteText] Resourcen
+[SpriteText] Resourcen
 [SpriteText] 0
-[SpriteText] description
-[SpriteText] Node name
-[SpriteText] Vessel Name
-[SpriteText] Science: 0.0
+[SpriteText] Beschreibung
+[SpriteText] Node Name
+[SpriteText] Fahrzeug Name
+[SpriteText] Wissenschaft: 0.0
 [SpriteText] Kerbal Name
-[SpriteText] 000 Data Gathered
+[SpriteText] 000 Daten aufgezeichnet
 [SpriteText] Name
-[SpriteText] Header
+[SpriteText] Überschrift
 [SpriteText] Name
 [SpriteText] 0/0
 [SpriteText] 
-[SpriteText] Value
+[SpriteText] Wert
 [SpriteText] 
 [SpriteText] 3
-[SpriteText] Science Report
+[SpriteText] wissenschaftlicher Bericht
 [SpriteText] 
-[SpriteText] Vessel Name
-[SpriteText] New message
+[SpriteText] Fahrzeug Name
+[SpriteText] neue Nachricht
 [SpriteText] 
 [SpriteText] 
-[SpriteText] Close
-[SpriteText] 000 Science reports found
-[SpriteText] Clear
-[SpriteText] Node description
-[SpriteText] Requires:
-[SpriteText] Available Parts
+[SpriteText] schließen
+[SpriteText] 000 wissenschaftliche Berichte gefunden
+[SpriteText] säubern
+[SpriteText] Node Beschreibung
+[SpriteText] benötigt
+[SpriteText] verfügbare Teile
 [SpriteText] 100%
-[SpriteText] Nothing selected.
-[SpriteText] Node name
+[SpriteText] nichts ausgewählt.
+[SpriteText] Node Name
 [SpriteText] Purchase 0 Parts [1,000 Funds]
 [SpriteText] Expand All
-[SpriteText] Science
+[SpriteText] Wissenschaft
 [SpriteText] Name
-[SpriteText] Data
-[SpriteText] Value
-[SpriteText] Research [0000 Science]
-[SpriteText] Reset Filters
-[SpriteText] Header
+[SpriteText] Daten
+[SpriteText] Wert
+[SpriteText] Forschung [0000 Science]
+[SpriteText] Filter zurücksetzen
+[SpriteText] Kopf
 [SpriteText] Label
-[SpriteText] Clear
-[SpriteText] # parts, in # stages.\r\r\n* Locked or Invalid Parts!
-[SpriteText] Part Name
-[SpriteText] Vessel Name
-[SpriteText] XP Trait
+[SpriteText] säubern
+[SpriteText] # Teile, in # Stages.\r\r\n* Gesperrt oder nicht Verfügbar!
+[SpriteText] Teilename
+[SpriteText] Fahrzeug Name
+[SpriteText] XP Merkmal
 [SpriteText]      key
 [SpriteText] Kerbal Name
 [SpriteText] Courage
 [SpriteText] Courage
 [SpriteText] Courage
-[SpriteText] Parts with crew capacity
+[SpriteText] Teile mit Crew Plätzen
 [SpriteText] Kerbal Name
-[SpriteText] Stupidity
-[SpriteText] XP Trait
-[SpriteText] Stupidity
+[SpriteText] Dummheit
+[SpriteText] XP Merkmal
+[SpriteText] Dummheit
 [SpriteText] Kerbal Name
 [SpriteText] Fill
-[SpriteText] Go to Astronaut Complex
+[SpriteText] Zum Astronautenkomplex
 [SpriteText] Kerbal Name
-[SpriteText] Label
-[SpriteText] Reset
-[SpriteText] Available crew
-[SpriteText] App name
-[SpriteText] Hello World
-[SpriteText] text
+[SpriteText] Bezeichnung
+[SpriteText] zurücksetzen
+[SpriteText] Verfügbare Crew
+[SpriteText] App Name
+[SpriteText] Hallo Welt
+[SpriteText] Text
 [SpriteText] 
 [SpriteText] In
-[SpriteText] Hello World
-[SpriteText] Hello World
-[SpriteText] Hello World
+[SpriteText] Hallo Welt
+[SpriteText] Hallo Welt
+[SpriteText] Hallo Welt
 [SpriteText] 123123123123
 [SpriteText] 
 [SpriteText] 
@@ -100,14 +100,14 @@
 [SpriteText] 1231111111111
 [SpriteText] /
 [SpriteText] /
-[SpriteText] Reset
+[SpriteText] zurücksetzen
 [SpriteText] sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
 [SpriteText] 123123123123
 [SpriteText] 123123123123123
 [SpriteText] 123123123123
 [SpriteText] 
 [SpriteText] Out
-[SpriteText] Hello World
+[SpriteText] Hallo Welt
 [SpriteText] sdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsf
 [SpriteText] 
 [SpriteText] 
@@ -129,27 +129,27 @@
 [SpriteText] Action Groups
 [SpriteText] Group Actions
 [SpriteText] 
-[SpriteText] Size
+[SpriteText] Größe
 [SpriteText] 
-[SpriteText] Cost
+[SpriteText] Kosten
 [SpriteText] Selection
 [SpriteText] 
-[SpriteText] Mass
-[SpriteText] Hello WorldHello WorldHello World
-[SpriteTextRich] Active Crews: 10\t[Max: 12]
-[SpriteTextRich] Hire Next: £ 00,000,000.00
-[SpriteTextRich] Placeholder text.
-[SpriteTextRich] I know, It's hardly rocket science
-[SpriteTextRich] XP Trait Description
+[SpriteText] Masse
+[SpriteText] Hallo WeltHallo WeltHallo Welt
+[SpriteTextRich] aktive Mannschaft: 10\t[Max: 12]
+[SpriteTextRich] nächsten anheuern: £ 00,000,000.00
+[SpriteTextRich] Platzhalter Text.
+[SpriteTextRich] Ich weiß, es ist schwerliche Raketenwissenschaft
+[SpriteTextRich] XP Merkmal Beschreibung
 [SpriteTextRich] Rebuild Lvl 1\n£ 10,800,000
 [SpriteTextRich] Enter\n
-[SpriteTextRich] Building Name
+[SpriteTextRich] Gebäude Name
 [SpriteTextRich] Status: Fully Operational
 [SpriteTextRich] Status: Operational
-[SpriteTextRich] Debris
+[SpriteTextRich] Müll
 [SpriteTextRich] Facility Level 2\n\n\n\n
 [SpriteTextRich] Space Center Facility
-[SpriteTextRich] Vessel Name
+[SpriteTextRich] Fahrzeug Name
 [SpriteTextRich] Landed at Somewhere long enough to line break
 [SpriteTextRich] Repair For £000,000,000.00\n
 [SpriteTextRich] + Map Trajectory Display\n+ Tracked Object Data\n+ Flight Guidance Data\n+ Four lines should be plenty I think\n
@@ -173,14 +173,14 @@
 [SpriteTextRich] 0000£
 [SpriteTextRich] 0000£
 [SpriteTextRich] <b><#DB8310>Wernher Von Kerman:</></b>\nWelcome to the science archives. Please make a selection.
-[SpriteTextRich] XP Trait Description
+[SpriteTextRich] XP Merkmal Description
 [SpriteTextRich] Header
 [SpriteTextRich] <b>Leerer Sitz</b>
 [SpriteTextRich]      key
 [SpriteTextRich] Mass: 0000.0t
-[SpriteTextRich] Size: 888.8m, 888.8m, 888.8m
+[SpriteTextRich] Größe: 888.8m, 888.8m, 888.8m
 [SpriteTextRich] £99999999
-[SpriteTextRich] XP Trait Description
+[SpriteTextRich] XP Merkmal Description
 [SpriteTextRich] <b>Leerer Sitz</b>
 [SpriteTextRich] key
 [SpriteTextRich] key
@@ -252,12 +252,12 @@
 [SpriteTextRich] Nothing to report, nothing to see either.
 [SpriteTextRich] Show severity:
 [SpriteTextRich] <#e6752a>Design checklist
-[SpriteTextRich] Size\nHeight:\nWidth:\nLength:
-[SpriteTextRich] Size\nHeight:\nWidth:\nLength:
+[SpriteTextRich] Größe\nHeight:\nWidth:\nLength:
+[SpriteTextRich] Größe\nHeight:\nWidth:\nLength:
 [SpriteTextRich] 
-[SpriteTextRich] Mass:
+[SpriteTextRich] Masse:
 [SpriteTextRich] 
-[SpriteTextRich] Parts:
+[SpriteTextRich] Teile:
 [SpriteTextRich] <#e6752a>Craft Stats
 [SpriteTextRich] <#acfcff>[+] Note:
 [SpriteTextRich] Ò <#ffffff>Achieve goal
@@ -272,13 +272,13 @@
 [SpriteTextRich] <#bfc3af>Load</>
 [SpriteText] 10.0
 [SpriteText] /
-[SpriteText] MonoPropellant
+[SpriteText] Manövertreibstoff
 [SpriteText] 10.0
 [SpriteText] 50.0
 [SpriteText] /
-[SpriteText] ElectricCharge
+[SpriteText] elektrische Ladung
 [SpriteText] 50.0
-[SpriteText] Toggle Flag
-[SpriteText] Toggle Torque
+[SpriteText] umschalten der Flagge
+[SpriteText] umschalen des Drehmoments
 [SpriteText] Reaction Wheels: Active
 [SpriteText] Mk1 Command Pod
