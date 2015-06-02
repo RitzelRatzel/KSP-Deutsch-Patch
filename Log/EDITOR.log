@@ -1,8 +1,8 @@
 ﻿[SpriteText] Schließen
-[SpriteText] verloren
+[SpriteText] vermisst
 [SpriteText] Assigned
-[SpriteText] Verfügbar
-[SpriteText] Auftraggeber
+[SpriteText] verfügbar
+[SpriteText] Bewerber
 [SpriteText] Füllen
 [SpriteText] Zurücksetzen
 [SpriteText] säubern
@@ -52,8 +52,8 @@
 [SpriteText] 100%
 [SpriteText] nichts ausgewählt.
 [SpriteText] Node Name
-[SpriteText] Purchase 0 Parts [1,000 Funds]
-[SpriteText] Expand All
+[SpriteText] gekauft 0 Teile [1,000 Funds]
+[SpriteText] alles entpacken
 [SpriteText] Wissenschaft
 [SpriteText] Name
 [SpriteText] Daten
@@ -69,16 +69,16 @@
 [SpriteText] XP Merkmal
 [SpriteText]      key
 [SpriteText] Kerbal Name
-[SpriteText] Courage
-[SpriteText] Courage
-[SpriteText] Courage
+[SpriteText] Tapferkeit
+[SpriteText] Tapferkeit
+[SpriteText] Tapferkeit
 [SpriteText] Teile mit Crew Plätzen
 [SpriteText] Kerbal Name
 [SpriteText] Dummheit
 [SpriteText] XP Merkmal
 [SpriteText] Dummheit
 [SpriteText] Kerbal Name
-[SpriteText] Fill
+[SpriteText] füllen
 [SpriteText] Zum Astronautenkomplex
 [SpriteText] Kerbal Name
 [SpriteText] Bezeichnung
@@ -114,161 +114,161 @@
 [SpriteText] Stop
 [SpriteText] 123123123123123
 [SpriteText] 
-[SpriteText] Lost
+[SpriteText] vermisst
 [SpriteText] Transfer
-[SpriteText] Assigned
-[SpriteText] Reset
-[SpriteText] Applicants
-[SpriteText] Fill
-[SpriteText] Clear
-[SpriteText] Available
-[SpriteText] Close
+[SpriteText] zugeteilt
+[SpriteText] zurücksetzen
+[SpriteText] Bewerber
+[SpriteText] füllen
+[SpriteText] säubern
+[SpriteText] verfügbar
+[SpriteText] schließen
 [SpriteText] Name
 [SpriteText] 
 [SpriteText] 
-[SpriteText] Action Groups
-[SpriteText] Group Actions
+[SpriteText] Aktionsgruppe
+[SpriteText] Gruppenaktion
 [SpriteText] 
 [SpriteText] Größe
 [SpriteText] 
 [SpriteText] Kosten
-[SpriteText] Selection
+[SpriteText] Auswahl
 [SpriteText] 
-[SpriteText] Masse
+[SpriteText] Massee
 [SpriteText] Hallo WeltHallo WeltHallo Welt
-[SpriteTextRich] aktive Mannschaft: 10\t[Max: 12]
+[SpriteTextRich] aktive Crew: 10\t[Max: 12]
 [SpriteTextRich] nächsten anheuern: £ 00,000,000.00
 [SpriteTextRich] Platzhalter Text.
 [SpriteTextRich] Ich weiß, es ist schwerliche Raketenwissenschaft
 [SpriteTextRich] XP Merkmal Beschreibung
-[SpriteTextRich] Rebuild Lvl 1\n£ 10,800,000
+[SpriteTextRich] wiederherstellen Lvl 1\n£ 10,800,000
 [SpriteTextRich] Enter\n
 [SpriteTextRich] Gebäude Name
-[SpriteTextRich] Status: Fully Operational
-[SpriteTextRich] Status: Operational
+[SpriteTextRich] Status: voll Betriebsbereit
+[SpriteTextRich] Status: Betrieb
 [SpriteTextRich] Müll
-[SpriteTextRich] Facility Level 2\n\n\n\n
-[SpriteTextRich] Space Center Facility
+[SpriteTextRich] Einrichtungslevel 2\n\n\n\n
+[SpriteTextRich] Space Center Einrichtung
 [SpriteTextRich] Fahrzeug Name
 [SpriteTextRich] Landed at Somewhere long enough to line break
-[SpriteTextRich] Repair For £000,000,000.00\n
-[SpriteTextRich] + Map Trajectory Display\n+ Tracked Object Data\n+ Flight Guidance Data\n+ Four lines should be plenty I think\n
-[SpriteTextRich] Vehicle Assembly Building description text goes here, and can be about this much in length, possibly more... Yeah, we can fit about five or six lines here easily, although reading this much is probably going to be a bore so better not overdo it.
+[SpriteTextRich] Repariert für £000,000,000.00\n
+[SpriteTextRich] Beschreibung Raketengebäude (VAB) hier,  und ja wir können hier 5 oder 6 Zeilen schreiben, obwohl diese alle zu lesen wahrscheinlich viel zu langweilig ist. Daher lassen wir es lieber.
+[SpriteTextRich] + Map Trajectory Display\n+ Tracked Object Data\n+ Flight Guidance Data\n+ Vier Zeilen sollten drin sein\n
 [SpriteTextRich] <#feb200>Crew:</>
 [SpriteTextRich] Landed at Somewhere long enough to line break
 [SpriteTextRich] Discard
 [SpriteTextRich] Tracking Station
 [SpriteTextRich] The Tracking Station allows you to keep track of ongoing flights and recover or terminate them.
 [SpriteTextRich] Enter\n
-[SpriteTextRich] Repair For £000,000,000.00\n
-[SpriteTextRich] 1200 parts, 500 stages
-[SpriteTextRich] Close
+[SpriteTextRich] Repariert für £000,000,000.00\n
+[SpriteTextRich] 1200 Teile, 500 Stufen
+[SpriteTextRich] schließen
 [SpriteTextRich] Demolish\n
-[SpriteTextRich] Jebediah Kerman\nBob Kerman\nBill Kerman\n<i>(N more)</>
+[SpriteTextRich] Jebediah Kerman\nBob Kerman\nBill Kerman\n<i>(N mehr)</>
 [SpriteTextRich] Upgrade\n<#00d4fe>£100,240,000.00</>
 [SpriteTextRich] £0000
 [SpriteTextRich] 0000£
-[SpriteTextRich] Title
+[SpriteTextRich] Titel
 [SpriteTextRich] 0000£
 [SpriteTextRich] 0000£
 [SpriteTextRich] 0000£
-[SpriteTextRich] <b><#DB8310>Wernher Von Kerman:</></b>\nWelcome to the science archives. Please make a selection.
-[SpriteTextRich] XP Merkmal Description
-[SpriteTextRich] Header
+[SpriteTextRich] <b><#DB8310>Wernher Von Kerman:</></b>\nWillkommen im wissenschaftlichen Archiv. Bitte mach eine Auswahl.
+[SpriteTextRich] XP Merkmal Beschreibung
+[SpriteTextRich] Kopf
 [SpriteTextRich] <b>Leerer Sitz</b>
 [SpriteTextRich]      key
-[SpriteTextRich] Mass: 0000.0t
+[SpriteTextRich] Massee: 0000.0t
 [SpriteTextRich] Größe: 888.8m, 888.8m, 888.8m
 [SpriteTextRich] £99999999
 [SpriteTextRich] XP Merkmal Description
 [SpriteTextRich] <b>Leerer Sitz</b>
 [SpriteTextRich] key
 [SpriteTextRich] key
-[SpriteTextRich] Add part to category:
-[SpriteTextRich] Close
-[SpriteTextRich] Delete
-[SpriteTextRich] Accept
-[SpriteTextRich] Close
+[SpriteTextRich] Teil zur Kategorie hinzufügen:
+[SpriteTextRich] schließen
+[SpriteTextRich] löschen
+[SpriteTextRich] Akzeptieren
+[SpriteTextRich] schließen
 [SpriteTextRich] Icon:
-[SpriteTextRich] Category name:
-[SpriteTextRich] Accept
-[SpriteTextRich] Hire Next: £ 00,000,000.00
-[SpriteTextRich] [+] design concern test
-[SpriteTextRich] Show severity:
-[SpriteTextRich] Active Crews: 10\t[Max: 12]
-[TextMesh] Loading...
+[SpriteTextRich] Katergoriename:
+[SpriteTextRich] Akzeptieren
+[SpriteTextRich] nächsten anheuern: £ 00,000,000.00
+[SpriteTextRich] [+] Bauteilprüfung
+[SpriteTextRich] Gewicht anzeigen:
+[SpriteTextRich] aktive Crew: 10\t[Max: 12]
+[TextMesh] Laden...
 [TextMesh] 00,000,000
 [TextMesh] 00,000,000
 [SpriteText]      key
 [SpriteText]      key
-[SpriteText] Header
-[SpriteText] Header
-[SpriteText] Engineer's Report
+[SpriteText] Kopf
+[SpriteText] Kopf
+[SpriteText] Ingenieursbericht
 [SpriteText]      key
 [SpriteText]      key
-[SpriteText] Header
+[SpriteText] Kopf
 [SpriteText]      key
 [SpriteText]      key
-[SpriteText] Header
+[SpriteText] Kopf
 [SpriteText]      key
-[SpriteText] Header
+[SpriteText] Kopf
 [SpriteText]      key
-[SpriteText] Header
-[SpriteText] Contracts
+[SpriteText] Kopf
+[SpriteText] Verträge
 [SpriteTextRich] [+] Consumers not receiving Ore.
 [SpriteTextRich] [+] Consumers not receiving IntakeAir.
 [SpriteTextRich] [+] Consumers not receiving ElectricCharge.
 [SpriteTextRich] [+] Consumers not receiving XenonGas.
-[SpriteTextRich] [+] Consumers not receiving MonoPropellant.
-[SpriteTextRich] [+] Consumers not receiving Oxidizer.
+[SpriteTextRich] [+] Consumers not receiving Manövertreibstoff.
+[SpriteTextRich] [+] Consumers not receiving Oxidationsmittel.
 [SpriteTextRich] [+] Consumers not receiving LiquidFuel.
-[SpriteTextRich] [+] Unused Ore resource.
-[SpriteTextRich] [+] Unused IntakeAir resource.
-[SpriteTextRich] [+] Unused ElectricCharge resource.
-[SpriteTextRich] [+] Unused XenonGas resource.
-[SpriteTextRich] [+] Unused MonoPropellant resource.
-[SpriteTextRich] [+] Unused Oxidizer resource.
-[SpriteTextRich] [+] Unused LiquidFuel resource.
-[SpriteTextRich] [+] ElectricCharge stored but not generated.
-[SpriteTextRich] [+] ElectricCharge generated but storage lacking.
-[SpriteTextRich] [+] ElectricCharge generated but not used.
-[SpriteTextRich] [+] ElectricCharge required but not generated.
-[SpriteTextRich] [+] No Control!
-[SpriteTextRich] [+] Landing gear missing!
-[SpriteTextRich] [+] Hatch Obstructed!
-[SpriteTextRich] [+] Docking ports used as decouplers.
-[SpriteTextRich] [+] Docking ports attached wrong.
-[SpriteTextRich] [+] Missing ladder.
+[SpriteTextRich] [+] Ungenutze Erz Ressource.
+[SpriteTextRich] [+] Ungenutze Einlassluft Ressoure.
+[SpriteTextRich] [+] Ungenutze elektrische Ladung.
+[SpriteTextRich] [+] Ungenutze XenonGas resource.
+[SpriteTextRich] [+] Ungenutze Manövertreibstoff Ressource.
+[SpriteTextRich] [+] Ungenutzes Oxidationsmittel.
+[SpriteTextRich] [+] Ungenutze Flüssigtreibstoff Ressource.
+[SpriteTextRich] [+] elektrische Ladung wird gespeichert aber nicht erzeugt.
+[SpriteTextRich] [+] elektrische Ladung wird erzeugt aber nicht gespeichert.
+[SpriteTextRich] [+] elektrische Ladung wird erzeugt aber nicht verwendet.
+[SpriteTextRich] [+] elektrische Ladung wird benötigt, aber nicht erzeugt.
+[SpriteTextRich] [+] Keine Steuerung!
+[SpriteTextRich] [+] Fahrwerk wird vermisst!
+[SpriteTextRich] [+] Hatch ist versperrt!
+[SpriteTextRich] [+] Docking ports werden als Trennkupplung verwendet.
+[SpriteTextRich] [+] Docking ports falsch angebracht.
+[SpriteTextRich] [+] Leiter wird vermisst.
 [SpriteTextRich] [+] Engines jettisoned before use.
-[SpriteTextRich] [+] Decouplers activated before launch clamps.
-[SpriteTextRich] [+] Empty crew cabins.
-[SpriteTextRich] [+] Decouplers attached wrong.
-[SpriteTextRich] [+] Command modules facing the wrong way.
+[SpriteTextRich] [+] Trennkupplungen aktiv, bevor die Startklemmen gelöst werden.
+[SpriteTextRich] [+] Crew Kabine leer.
+[SpriteTextRich] [+] Trennkupplung falsch angebracht.
+[SpriteTextRich] [+] Kommandomodul ist falsch herum platziert.
 [SpriteTextRich] [+] Station hub issues.
-[SpriteTextRich] [+] Parachutes on engine stage.
-[SpriteTextRich] [+] Parachutes on first stage.
-[SpriteTextRich] [+] Data transmitter required.
-[SpriteTextRich] There is nothing concerning about this vessel.
-[SpriteTextRich] Nothing to report, nothing to see either.
-[SpriteTextRich] Show severity:
+[SpriteTextRich] [+] Fallschirm auf der .
+[SpriteTextRich] [+] Fallschirm in der ersten Stufe.
+[SpriteTextRich] [+] Sendeschüssel für Daten benötigt.
+[SpriteTextRich] Es gibt nichts über dieses Schiff.
+[SpriteTextRich] Nichts zu berichten, nichts zu sehen.
+[SpriteTextRich] Schwierigkeitsgrad zeigen:
 [SpriteTextRich] <#e6752a>Design checklist
-[SpriteTextRich] Größe\nHeight:\nWidth:\nLength:
-[SpriteTextRich] Größe\nHeight:\nWidth:\nLength:
+[SpriteTextRich] Größe\nHöhe:\nBreite:\nLänge:
+[SpriteTextRich] Größe\nHöhe:\nBreite:\nLänge:
 [SpriteTextRich] 
 [SpriteTextRich] Masse:
 [SpriteTextRich] 
 [SpriteTextRich] Teile:
 [SpriteTextRich] <#e6752a>Craft Stats
-[SpriteTextRich] <#acfcff>[+] Note:
-[SpriteTextRich] Ò <#ffffff>Achieve goal
+[SpriteTextRich] <#acfcff>[+] Notiz:
+[SpriteTextRich] Ò <#ffffff>Ziel erreichen
 [SpriteTextRich] <#e6752a>Orbit Kerbin!
-[SpriteTextRich] <#acfcff>[+] Note:
-[SpriteTextRich] Ò <#ffffff>Achieve goal
-[SpriteTextRich] <#e6752a>Escape the atmosphere!
-[SpriteTextRich] Ò <#ffffff>Achieve speeds exceeding 450m/s
-[SpriteTextRich] <#e6752a>Set speed record of 450m/s.
-[SpriteTextRich] Ò <#ffffff>Achieve an altitude of at least 7,500m
-[SpriteTextRich] <#e6752a>Set altitude record of 7,500m.
+[SpriteTextRich] <#acfcff>[+] Notiz:
+[SpriteTextRich] Ò <#ffffff>Ziel erreichen
+[SpriteTextRich] <#e6752a>Verlasse die Atmosphäre!
+[SpriteTextRich] Ò <#ffffff>Erreiche eine Geschwindigkeit von mindestens 450 m/s.
+[SpriteTextRich] <#e6752a>Setze die Höchstgeschwindigkeit auf 450 m/s.
+[SpriteTextRich] Ò <#ffffff>Erreiche eine Höhe von mindestens 7.500 m.
+[SpriteTextRich] <#e6752a>Setz Flughöhe auf 7.500 m.
 [SpriteTextRich] <#bfc3af>Load</>
 [SpriteText] 10.0
 [SpriteText] /
@@ -280,5 +280,5 @@
 [SpriteText] 50.0
 [SpriteText] umschalten der Flagge
 [SpriteText] umschalen des Drehmoments
-[SpriteText] Reaction Wheels: Active
+[SpriteText] Reaktionsrad: Aktiv
 [SpriteText] Mk1 Command Pod
