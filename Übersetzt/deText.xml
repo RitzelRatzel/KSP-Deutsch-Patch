@@ -1,0 +1,734 @@
+﻿<de>
+	<text>
+		<en><![CDATA[Close]]></en>
+		<de><![CDATA[Schließen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Lost]]></en>
+		<de><![CDATA[vermisst]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Available]]></en>
+		<de><![CDATA[verfügbar]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Applicants]]></en>
+		<de><![CDATA[Bewerber]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Fill]]></en>
+		<de><![CDATA[Füllen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Reset]]></en>
+		<de><![CDATA[Zurücksetzen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Clear]]></en>
+		<de><![CDATA[säubern]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Go to Astronaut Complex]]></en>
+		<de><![CDATA[Zum Astronautenkomplex]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Clear]]></en>
+		<de><![CDATA[säubern]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Fill]]></en>
+		<de><![CDATA[Füllen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Available crew]]></en>
+		<de><![CDATA[Verfügbare Crew]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Parts with crew capacity]]></en>
+		<de><![CDATA[Teile mit Crew Plätzen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[none]]></en>
+		<de><![CDATA[keines]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Stage Only]]></en>
+		<de><![CDATA[Stage einzeln]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Resources]]></en>
+		<de><![CDATA[Resourcen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Resources]]></en>
+		<de><![CDATA[Resourcen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[description]]></en>
+		<de><![CDATA[Beschreibung]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Node name]]></en>
+		<de><![CDATA[Node Name]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Vessel Name]]></en>
+		<de><![CDATA[Fahrzeug Name]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Science: 0.0]]></en>
+		<de><![CDATA[Wissenschaft: 0.0]]></de>
+	</text>
+	<text>
+		<en><![CDATA[000 Data Gathered]]></en>
+		<de><![CDATA[000 Daten aufgezeichnet]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Header]]></en>
+		<de><![CDATA[Überschrift]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Value]]></en>
+		<de><![CDATA[Wert]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Science Report]]></en>
+		<de><![CDATA[wissenschaftlicher Bericht]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Vessel Name]]></en>
+		<de><![CDATA[Fahrzeug Name]]></de>
+	</text>
+	<text>
+		<en><![CDATA[New message]]></en>
+		<de><![CDATA[neue Nachricht]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Close]]></en>
+		<de><![CDATA[schließen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[000 Science reports found]]></en>
+		<de><![CDATA[000 wissenschaftliche Berichte gefunden]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Clear]]></en>
+		<de><![CDATA[säubern]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Node description]]></en>
+		<de><![CDATA[Node Beschreibung]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Requires:]]></en>
+		<de><![CDATA[benötigt]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Available Parts]]></en>
+		<de><![CDATA[verfügbare Teile]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Nothing selected.]]></en>
+		<de><![CDATA[nichts ausgewählt.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Node name]]></en>
+		<de><![CDATA[Node Name]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Purchase 0 Parts [1,000 Funds]]]></en>
+		<de><![CDATA[gekauft 0 Teile [1,000 Funds]]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Expand All]]></en>
+		<de><![CDATA[alles entpacken]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Science]]></en>
+		<de><![CDATA[Wissenschaft]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Data]]></en>
+		<de><![CDATA[Daten]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Value]]></en>
+		<de><![CDATA[Wert]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Research [0000 Science]]]></en>
+		<de><![CDATA[Forschung [0000 Science]]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Reset Filters]]></en>
+		<de><![CDATA[Filter zurücksetzen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Header]]></en>
+		<de><![CDATA[Kopf]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Clear]]></en>
+		<de><![CDATA[säubern]]></de>
+	</text>
+	<text>
+		<en><![CDATA[# parts, in # stages.\r\r\n* Locked or Invalid Parts!]]></en>
+		<de><![CDATA[# Teile, in # Stages.\r\r\n* Gesperrt oder nicht Verfügbar!]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Part Name]]></en>
+		<de><![CDATA[Teilename]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Vessel Name]]></en>
+		<de><![CDATA[Fahrzeug Name]]></de>
+	</text>
+	<text>
+		<en><![CDATA[XP Trait]]></en>
+		<de><![CDATA[XP Merkmal]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Courage]]></en>
+		<de><![CDATA[Tapferkeit]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Courage]]></en>
+		<de><![CDATA[Tapferkeit]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Courage]]></en>
+		<de><![CDATA[Tapferkeit]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Parts with crew capacity]]></en>
+		<de><![CDATA[Teile mit Crew Plätzen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Stupidity]]></en>
+		<de><![CDATA[Dummheit]]></de>
+	</text>
+	<text>
+		<en><![CDATA[XP Trait]]></en>
+		<de><![CDATA[XP Merkmal]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Stupidity]]></en>
+		<de><![CDATA[Dummheit]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Fill]]></en>
+		<de><![CDATA[füllen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Go to Astronaut Complex]]></en>
+		<de><![CDATA[Zum Astronautenkomplex]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Label]]></en>
+		<de><![CDATA[Bezeichnung]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Reset]]></en>
+		<de><![CDATA[zurücksetzen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Available crew]]></en>
+		<de><![CDATA[Verfügbare Crew]]></de>
+	</text>
+	<text>
+		<en><![CDATA[App name]]></en>
+		<de><![CDATA[App Name]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Hello World]]></en>
+		<de><![CDATA[Hallo Welt]]></de>
+	</text>
+	<text>
+		<en><![CDATA[text]]></en>
+		<de><![CDATA[Text]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Hello World]]></en>
+		<de><![CDATA[Hallo Welt]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Hello World]]></en>
+		<de><![CDATA[Hallo Welt]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Hello World]]></en>
+		<de><![CDATA[Hallo Welt]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Reset]]></en>
+		<de><![CDATA[zurücksetzen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Hello World]]></en>
+		<de><![CDATA[Hallo Welt]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Lost]]></en>
+		<de><![CDATA[vermisst]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Assigned]]></en>
+		<de><![CDATA[zugeteilt]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Reset]]></en>
+		<de><![CDATA[zurücksetzen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Applicants]]></en>
+		<de><![CDATA[Bewerber]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Fill]]></en>
+		<de><![CDATA[füllen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Clear]]></en>
+		<de><![CDATA[säubern]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Available]]></en>
+		<de><![CDATA[verfügbar]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Close]]></en>
+		<de><![CDATA[schließen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Action Groups]]></en>
+		<de><![CDATA[Aktionsgruppe]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Group Actions]]></en>
+		<de><![CDATA[Gruppenaktion]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Size]]></en>
+		<de><![CDATA[Größe]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Cost]]></en>
+		<de><![CDATA[Kosten]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Selection]]></en>
+		<de><![CDATA[Auswahl]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Mass]]></en>
+		<de><![CDATA[Massee]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Hello WorldHello WorldHello World]]></en>
+		<de><![CDATA[Hallo WeltHallo WeltHallo Welt]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Active Crews: 10\t[Max: 12]]]></en>
+		<de><![CDATA[aktive Crew: 10\t[Max: 12]]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Hire Next: � 00,000,000.00]]></en>
+		<de><![CDATA[nächsten anheuern: £ 00,000,000.00]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Placeholder text.]]></en>
+		<de><![CDATA[Platzhalter Text.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[I know, It's hardly rocket science]]></en>
+		<de><![CDATA[Ich weiß, es ist schwerliche Raketenwissenschaft]]></de>
+	</text>
+	<text>
+		<en><![CDATA[XP Trait Description]]></en>
+		<de><![CDATA[XP Merkmal Beschreibung]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Rebuild Lvl 1\n� 10,800,000]]></en>
+		<de><![CDATA[wiederherstellen Lvl 1\n£ 10,800,000]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Building Name]]></en>
+		<de><![CDATA[Gebäude Name]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Status: Fully Operational]]></en>
+		<de><![CDATA[Status: voll Betriebsbereit]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Status: Operational]]></en>
+		<de><![CDATA[Status: Betrieb]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Debris]]></en>
+		<de><![CDATA[Müll]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Facility Level 2\n\n\n\n]]></en>
+		<de><![CDATA[Einrichtungslevel 2\n\n\n\n]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Space Center Facility]]></en>
+		<de><![CDATA[Space Center Einrichtung]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Vessel Name]]></en>
+		<de><![CDATA[Fahrzeug Name]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Repair For �000,000,000.00\n]]></en>
+		<de><![CDATA[Repariert für £000,000,000.00\n]]></de>
+	</text>
+	<text>
+		<en><![CDATA[+ Map Trajectory Display\n+ Tracked Object Data\n+ Flight Guidance Data\n+ Four lines should be plenty I think\n]]></en>
+		<de><![CDATA[Beschreibung Raketengebäude (VAB) hier,  und ja wir können hier 5 oder 6 Zeilen schreiben, obwohl diese alle zu lesen wahrscheinlich viel zu langweilig ist. Daher lassen wir es lieber.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Vehicle Assembly Building description text goes here, and can be about this much in length, possibly more... Yeah, we can fit about five or six lines here easily, although reading this much is probably going to be a bore so better not overdo it.]]></en>
+		<de><![CDATA[+ Map Trajectory Display\n+ Tracked Object Data\n+ Flight Guidance Data\n+ Vier Zeilen sollten drin sein\n]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Repair For �000,000,000.00\n]]></en>
+		<de><![CDATA[Repariert für £000,000,000.00\n]]></de>
+	</text>
+	<text>
+		<en><![CDATA[1200 parts, 500 stages]]></en>
+		<de><![CDATA[1200 Teile, 500 Stufen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Close]]></en>
+		<de><![CDATA[schließen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Jebediah Kerman\nBob Kerman\nBill Kerman\n<i>(N more)</>]]></en>
+		<de><![CDATA[Jebediah Kerman\nBob Kerman\nBill Kerman\n<i>(N mehr)</>]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Upgrade\n<#00d4fe>�100,240,000.00</>]]></en>
+		<de><![CDATA[Upgrade\n<#00d4fe>£100,240,000.00</>]]></de>
+	</text>
+	<text>
+		<en><![CDATA[�0000]]></en>
+		<de><![CDATA[£0000]]></de>
+	</text>
+	<text>
+		<en><![CDATA[0000�]]></en>
+		<de><![CDATA[0000£]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Title]]></en>
+		<de><![CDATA[Titel]]></de>
+	</text>
+	<text>
+		<en><![CDATA[0000�]]></en>
+		<de><![CDATA[0000£]]></de>
+	</text>
+	<text>
+		<en><![CDATA[0000�]]></en>
+		<de><![CDATA[0000£]]></de>
+	</text>
+	<text>
+		<en><![CDATA[0000�]]></en>
+		<de><![CDATA[0000£]]></de>
+	</text>
+	<text>
+		<en><![CDATA[<b><#DB8310>Wernher Von Kerman:</></b>\nWelcome to the science archives. Please make a selection.]]></en>
+		<de><![CDATA[<b><#DB8310>Wernher Von Kerman:</></b>\nWillkommen im wissenschaftlichen Archiv. Bitte mach eine Auswahl.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[XP Trait Description]]></en>
+		<de><![CDATA[XP Merkmal Beschreibung]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Header]]></en>
+		<de><![CDATA[Kopf]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Mass: 0000.0t]]></en>
+		<de><![CDATA[Massee: 0000.0t]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Size: 888.8m, 888.8m, 888.8m]]></en>
+		<de><![CDATA[Größe: 888.8m, 888.8m, 888.8m]]></de>
+	</text>
+	<text>
+		<en><![CDATA[�99999999]]></en>
+		<de><![CDATA[£99999999]]></de>
+	</text>
+	<text>
+		<en><![CDATA[XP Trait Description]]></en>
+		<de><![CDATA[XP Merkmal Description]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Add part to category:]]></en>
+		<de><![CDATA[Teil zur Kategorie hinzufügen:]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Close]]></en>
+		<de><![CDATA[schließen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Delete]]></en>
+		<de><![CDATA[löschen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Accept]]></en>
+		<de><![CDATA[Akzeptieren]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Close]]></en>
+		<de><![CDATA[schließen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Category name:]]></en>
+		<de><![CDATA[Katergoriename:]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Accept]]></en>
+		<de><![CDATA[Akzeptieren]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Hire Next: � 00,000,000.00]]></en>
+		<de><![CDATA[nächsten anheuern: £ 00,000,000.00]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] design concern test]]></en>
+		<de><![CDATA[[+] Bauteilprüfung]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Show severity:]]></en>
+		<de><![CDATA[Gewicht anzeigen:]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Active Crews: 10\t[Max: 12]]]></en>
+		<de><![CDATA[aktive Crew: 10\t[Max: 12]]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[TextMesh] Loading...]]></en>
+		<de><![CDATA[[TextMesh] Laden...]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Header]]></en>
+		<de><![CDATA[Kopf]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Header]]></en>
+		<de><![CDATA[Kopf]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Engineer's Report]]></en>
+		<de><![CDATA[Ingenieursbericht]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Header]]></en>
+		<de><![CDATA[Kopf]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Header]]></en>
+		<de><![CDATA[Kopf]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Header]]></en>
+		<de><![CDATA[Kopf]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Header]]></en>
+		<de><![CDATA[Kopf]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Contracts]]></en>
+		<de><![CDATA[Verträge]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Consumers not receiving MonoPropellant.]]></en>
+		<de><![CDATA[[+] Consumers not receiving Manövertreibstoff.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Consumers not receiving Oxidizer.]]></en>
+		<de><![CDATA[[+] Consumers not receiving Oxidationsmittel.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Unused Ore resource.]]></en>
+		<de><![CDATA[[+] Ungenutze Erz Ressource.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Unused IntakeAir resource.]]></en>
+		<de><![CDATA[[+] Ungenutze Einlassluft Ressoure.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Unused ElectricCharge resource.]]></en>
+		<de><![CDATA[[+] Ungenutze elektrische Ladung.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Unused XenonGas resource.]]></en>
+		<de><![CDATA[[+] Ungenutze XenonGas resource.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Unused MonoPropellant resource.]]></en>
+		<de><![CDATA[[+] Ungenutze Manövertreibstoff Ressource.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Unused Oxidizer resource.]]></en>
+		<de><![CDATA[[+] Ungenutzes Oxidationsmittel.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Unused LiquidFuel resource.]]></en>
+		<de><![CDATA[[+] Ungenutze Flüssigtreibstoff Ressource.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] ElectricCharge stored but not generated.]]></en>
+		<de><![CDATA[[+] elektrische Ladung wird gespeichert aber nicht erzeugt.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] ElectricCharge generated but storage lacking.]]></en>
+		<de><![CDATA[[+] elektrische Ladung wird erzeugt aber nicht gespeichert.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] ElectricCharge generated but not used.]]></en>
+		<de><![CDATA[[+] elektrische Ladung wird erzeugt aber nicht verwendet.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] ElectricCharge required but not generated.]]></en>
+		<de><![CDATA[[+] elektrische Ladung wird benötigt, aber nicht erzeugt.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] No Control!]]></en>
+		<de><![CDATA[[+] Keine Steuerung!]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Landing gear missing!]]></en>
+		<de><![CDATA[[+] Fahrwerk wird vermisst!]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Hatch Obstructed!]]></en>
+		<de><![CDATA[[+] Hatch ist versperrt!]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Docking ports used as decouplers.]]></en>
+		<de><![CDATA[[+] Docking ports werden als Trennkupplung verwendet.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Docking ports attached wrong.]]></en>
+		<de><![CDATA[[+] Docking ports falsch angebracht.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Missing ladder.]]></en>
+		<de><![CDATA[[+] Leiter wird vermisst.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Decouplers activated before launch clamps.]]></en>
+		<de><![CDATA[[+] Trennkupplungen aktiv, bevor die Startklemmen gelöst werden.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Empty crew cabins.]]></en>
+		<de><![CDATA[[+] Crew Kabine leer.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Decouplers attached wrong.]]></en>
+		<de><![CDATA[[+] Trennkupplung falsch angebracht.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Command modules facing the wrong way.]]></en>
+		<de><![CDATA[[+] Kommandomodul ist falsch herum platziert.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Parachutes on engine stage.]]></en>
+		<de><![CDATA[[+] Fallschirm auf der .]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Parachutes on first stage.]]></en>
+		<de><![CDATA[[+] Fallschirm in der ersten Stufe.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[[+] Data transmitter required.]]></en>
+		<de><![CDATA[[+] Sendeschüssel für Daten benötigt.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[There is nothing concerning about this vessel.]]></en>
+		<de><![CDATA[Es gibt nichts über dieses Schiff.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Nothing to report, nothing to see either.]]></en>
+		<de><![CDATA[Nichts zu berichten, nichts zu sehen.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Show severity:]]></en>
+		<de><![CDATA[Schwierigkeitsgrad zeigen:]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Size\nHeight:\nWidth:\nLength:]]></en>
+		<de><![CDATA[Größe\nHöhe:\nBreite:\nLänge:]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Size\nHeight:\nWidth:\nLength:]]></en>
+		<de><![CDATA[Größe\nHöhe:\nBreite:\nLänge:]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Mass:]]></en>
+		<de><![CDATA[Masse:]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Parts:]]></en>
+		<de><![CDATA[Teile:]]></de>
+	</text>
+	<text>
+		<en><![CDATA[<#acfcff>[+] Note:]]></en>
+		<de><![CDATA[<#acfcff>[+] Notiz:]]></de>
+	</text>
+	<text>
+		<en><![CDATA[� <#ffffff>Achieve goal]]></en>
+		<de><![CDATA[Ò <#ffffff>Ziel erreichen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[<#acfcff>[+] Note:]]></en>
+		<de><![CDATA[<#acfcff>[+] Notiz:]]></de>
+	</text>
+	<text>
+		<en><![CDATA[� <#ffffff>Achieve goal]]></en>
+		<de><![CDATA[Ò <#ffffff>Ziel erreichen]]></de>
+	</text>
+	<text>
+		<en><![CDATA[<#e6752a>Escape the atmosphere!]]></en>
+		<de><![CDATA[<#e6752a>Verlasse die Atmosphäre!]]></de>
+	</text>
+	<text>
+		<en><![CDATA[� <#ffffff>Achieve speeds exceeding 450m/s]]></en>
+		<de><![CDATA[Ò <#ffffff>Erreiche eine Geschwindigkeit von mindestens 450 m/s.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[<#e6752a>Set speed record of 450m/s.]]></en>
+		<de><![CDATA[<#e6752a>Setze die Höchstgeschwindigkeit auf 450 m/s.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[� <#ffffff>Achieve an altitude of at least 7,500m]]></en>
+		<de><![CDATA[Ò <#ffffff>Erreiche eine Höhe von mindestens 7.500 m.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[<#e6752a>Set altitude record of 7,500m.]]></en>
+		<de><![CDATA[<#e6752a>Setz Flughöhe auf 7.500 m.]]></de>
+	</text>
+	<text>
+		<en><![CDATA[MonoPropellant]]></en>
+		<de><![CDATA[Manövertreibstoff]]></de>
+	</text>
+	<text>
+		<en><![CDATA[ElectricCharge]]></en>
+		<de><![CDATA[elektrische Ladung]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Toggle Flag]]></en>
+		<de><![CDATA[umschalten der Flagge]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Toggle Torque]]></en>
+		<de><![CDATA[umschalen des Drehmoments]]></de>
+	</text>
+	<text>
+		<en><![CDATA[Reaction Wheels: Active]]></en>
+		<de><![CDATA[Reaktionsrad: Aktiv]]></de>
+	</text>
+</de>
